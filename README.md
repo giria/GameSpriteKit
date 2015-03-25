@@ -1,3 +1,3 @@
 # GameSpriteKit
 
-![Screencapture GIF]  (giria.github.com/GameSpriteKit/out.jpg)
+![Screencapture GIF]  (https://github.com/giria/GameSpriteKit/blob/master/out.gif)
